@@ -4,7 +4,7 @@
 
 This dashboard presents a comprehensive view of the sales of Superstore in the country of United States. Insights derived from the dashboard are as follows,
   - Total profit, total sales and total returns in the regions of the US has been displayed in a Score Card format.
-     - **Insight:** There were 1.57 million sales, total 175K profit and 287 items returned.
+**Insight:** There were 1.57 million sales, total 175K profit and 287 items returned.
   - The US states and the total sales done are represented in a Map visualization to enable better understanding.
     - **Insight:** California had the most sales.
   - Profit attained by the range of products are shown in a Stacked Bar Chart.
